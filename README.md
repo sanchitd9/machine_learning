@@ -56,4 +56,15 @@ List of notebooks:
    
 13. NLP
     * nlp_1: Basic concepts of Natural Language Processing
-   
+
+## Dependencies
+
+To run these notebooks, please install the following packages:
+* [numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [seaborn](https://seaborn.pydata.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
+* [nltk](https://www.nltk.org/)
+
+
